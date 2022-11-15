@@ -1,1145 +1,598 @@
-#EXTM3U
-#EXTINF:-1,BANDOOKK IPTV (LOCAL)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27985
-#EXTINF:-1,IND: SONY TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1406
-#EXTINF:-1,IND: SONY TV SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1407
-#EXTINF:-1,IND: SONY TV (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1408
-#EXTINF:-1,IND: STAR PLUS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1409
-#EXTINF:-1,IND: STAR PLUS (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1410
-#EXTINF:-1,IND: ZEE TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1411
-#EXTINF:-1,IND: COLORS HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1413
-#EXTINF:-1,IND: COLORS TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1414
-#EXTINF:-1,IND: COLORS (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1415
-#EXTINF:-1,IND: &TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1416
-#EXTINF:-1,IND: &TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1417
-#EXTINF:-1,IND: SONY SAB HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1418
-#EXTINF:-1,IND: SONY SAB SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1419
-#EXTINF:-1,IND: SONY SAB (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1420
-#EXTINF:-1,IND: SONY PAL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1421
-#EXTINF:-1,IND: STAR BHARAT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1422
-#EXTINF:-1,IND: UTSAV BHARAT UK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11264
-#EXTINF:-1,IND: UTSAV BHARAT MIDDLE EAST
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9345
-#EXTINF:-1,IND: COLORS RISHTEY (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1423
-#EXTINF:-1,IND: ZEE ANMOL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1424
-#EXTINF:-1,IND: DHAMAAL TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1425
-#EXTINF:-1,IND: DILLAGI TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1426
-#EXTINF:-1,IND: BIG MAGIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1427
-#EXTINF:-1,IND: Disney Hotstar Premium
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26596
-#EXTINF:-1,IND: &EXPLOR HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1428
-#EXTINF:-1,IND: & PICTURES HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1429
-#EXTINF:-1,IND: & PICTURES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1430
-#EXTINF:-1,IND: ZEE CINEMA HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1431
-#EXTINF:-1,IND: ZEE CINEMA SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1432
-#EXTINF:-1,IND: ZEE CINEMA UK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1433
-#EXTINF:-1,IND: ZEE CINEMA USA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1434
-#EXTINF:-1,IND: STAR GOLD HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1435
-#EXTINF:-1,IND: STAR GOLD HD UK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1436
-#EXTINF:-1,IND: STAR GOLD SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1437
-#EXTINF:-1,IND: STAR GOLD SELECT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1438
-#EXTINF:-1,IND: SONY MAX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1439
-#EXTINF:-1,IND: SONY MAX HD (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1440
-#EXTINF:-1,IND: SONY MAX 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1441
-#EXTINF:-1,IND: ZEE ACTION
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1442
-#EXTINF:-1,IND: ZEE BOLLYWOOD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1443
-#EXTINF:-1,IND: ZEE CLASSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23855
-#EXTINF:-1,IND: ZEE ANMOL CINEMA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1444
-#EXTINF:-1,IND: UTV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1445
-#EXTINF:-1,IND: UTV MOVIES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11261
-#EXTINF:-1,IND: UTV ACTION
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11262
-#EXTINF:-1,IND: COLOR CINEPLEX HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1446
-#EXTINF:-1,IND: COLORS CINEPLEX (UK)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1447
-#EXTINF:-1,IND: COLORS HINDI DUB
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26595
-#EXTINF:-1,IND: B4U Plus
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1448
-#EXTINF:-1,IND: B4U Movies
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1449
-#EXTINF:-1,IND: B4U Kadak
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1450
-#EXTINF:-1,IND: DHINCHAK 
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18266
-#EXTINF:-1,IND: Cinema TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1451
-#EXTINF:-1,IND: ENTER 10
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1452
-#EXTINF:-1,IND: MANORANJAN TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1453
-#EXTINF:-1,IND: MANORANJAN MOVIES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1454
-#EXTINF:-1,IND: MAHA MOVIES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1455
-#EXTINF:-1,IND: BOLLYWOOD PREMIER
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1456
-#EXTINF:-1,IND: BOLLYWOOD CLASSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1457
-#EXTINF:-1,IND: BOLLYWOOD NOW
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1458
-#EXTINF:-1,IND: WILLOW CRICKET HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1459
-#EXTINF:-1,IND: STAR SPORTS 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1460
-#EXTINF:-1,IND: STAR SPORTS 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1461
-#EXTINF:-1,IND: STAR SPORTS 2 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1462
-#EXTINF:-1,IND: STAR SPORTS 3 SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1463
-#EXTINF:-1,IND: STAR SPORTS SELECT 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1464
-#EXTINF:-1,IND: STAR SPORTS SELECT 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1465
-#EXTINF:-1,IND: DD SPORTS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1473
-#EXTINF:-1,IND: ANIMAL PLANET HINDI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1477
-#EXTINF:-1,IND: Discovery HINDI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1478
-#EXTINF:-1,IND: Discovery Science HINDI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1479
-#EXTINF:-1,IND: ID
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1480
-#EXTINF:-1,IND: FOX LIFE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1481
-#EXTINF:-1,IND: TLC HINDI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1482
-#EXTINF:-1,IND: TRAVEL XP HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1483
-#EXTINF:-1,IND: BBC EARTH 4K
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1484
-#EXTINF:-1,IND: LIVING FOODZ
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1486
-#EXTINF:-1,IND: FOOD FOOD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1487
-#EXTINF:-1,IND: PEN TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/16189
-#EXTINF:-1,IND: Mastiii
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1494
-#EXTINF:-1,IND: 9X JALWA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1495
-#EXTINF:-1,IND: B4U Music
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1496
-#EXTINF:-1,IND: ZING
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1498
-#EXTINF:-1,IND: PITAARA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1499
-#EXTINF:-1,IND: DIL SE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1501
-#EXTINF:-1,IND: POP PATAKHA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1502
-#EXTINF:-1,IND: Jhanjar Music
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1504
-#EXTINF:-1,IND: STAR MOVIES SELECT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11263
-#EXTINF:-1,IND: ZEE CAFE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1506
-#EXTINF:-1,IND: &FLIX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1508
-#EXTINF:-1,IND: Movies Now
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1509
-#EXTINF:-1,IND: MNX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1510
-#EXTINF:-1,IND: Romedy Now
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1511
-#EXTINF:-1,IND: PBN MUSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1514
-#EXTINF:-1,MALAYALAM: Asianet HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9245
-#EXTINF:-1,MALAYALAM: Reporter TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9247
-#EXTINF:-1,MALAYALAM: SURYA TV Malayam
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9248
-#EXTINF:-1,MALAYALAM: MANORANJAN TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9249
-#EXTINF:-1,MALAYALAM: Flowers TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9250
-#EXTINF:-1,MALAYALAM: Janam TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9251
-#EXTINF:-1,MALAYALAM: Jeevan TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9252
-#EXTINF:-1,MALAYALAM: Kappa TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9253
-#EXTINF:-1,MALAYALAM: Kairali News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9254
-#EXTINF:-1,MALAYALAM: Kairali TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9255
-#EXTINF:-1,MALAYALAM: Mathrubhumi News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9256
-#EXTINF:-1,MALAYALAM: Media One TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9257
-#EXTINF:-1,Asianet News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9258
-#EXTINF:-1,Malayalam - Kairali We
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9259
-#EXTINF:-1,IN:Kairali TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9260
-#EXTINF:-1,IN: Kairali We
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9261
-#EXTINF:-1,IN: IBC Comedy
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9262
-#EXTINF:-1,IN: ABP Asmita
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9263
-#EXTINF:-1,IN: Kairali News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9264
-#EXTINF:-1,MIRROR NOW
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9273
-#EXTINF:-1,ABN Andhra Jyothy
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9279
-#EXTINF:-1,NTV Telugu
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9280
-#EXTINF:-1,Telugu: TV9 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9281
-#EXTINF:-1,Telugu: V6 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9282
-#EXTINF:-1,Raj News Telugu
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9283
-#EXTINF:-1,Telugu: T News HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9284
-#EXTINF:-1,HM TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9285
-#EXTINF:-1,iNews
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9286
-#EXTINF:-1,Hindu Dharmam
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9287
-#EXTINF:-1,DIVYA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9288
-#EXTINF:-1,Telugu: Zee Ditto
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9289
-#EXTINF:-1,Telugu: Zee Cinema l
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9290
-#EXTINF:-1,Telugu: Zee Telugu
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9291
-#EXTINF:-1,Telugu: TV9
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9292
-#EXTINF:-1,Telugu: Puthiya Thalamurai
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9293
-#EXTINF:-1,Telugu: CVR HEALTH
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9294
-#EXTINF:-1,Telugu: CVR NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9295
-#EXTINF:-1,Telugu: GEMINI COMEDY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9296
-#EXTINF:-1,Telugu: GEMINI LIFE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9297
-#EXTINF:-1,Telugu: IN: GEMINI Movies
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9298
-#EXTINF:-1,Telugu: GEMINI HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9299
-#EXTINF:-1,Velicham
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/9349
-#EXTINF:-1,IND: ASIANET MOVIES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18258
-#EXTINF:-1,IND: ASIANET PLUS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18259
-#EXTINF:-1,IND: SURYA MOVIES
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18260
-#EXTINF:-1,IND: SURYA MUSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18261
-#EXTINF:-1,IND: ZEE KERALAM
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18262
-#EXTINF:-1,IND: SAFARI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18263
-#EXTINF:-1,IND: MAZHAVIL MANORAMA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18264
-#EXTINF:-1,IND: KOCHU TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18265
-#EXTINF:-1,PK: NICK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27682
-#EXTINF:-1,PK: POP HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27681
-#EXTINF:-1,PK: KIDS ZONE PLUS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27680
-#EXTINF:-1,PK: CARTOON NETWORK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1004
-#EXTINF:-1,IND: CARTOON NETWORK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23565
-#EXTINF:-1,IND: DISCOVERY KIDS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23562
-#EXTINF:-1,IND:  GUBBARE KIDS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23560
-#EXTINF:-1,IND: POGO (Hin)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23566
-#EXTINF:-1,IND: SONY YAY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23558
-#EXTINF:-1,IND: NICK SONIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23563
-#EXTINF:-1,IND: NICK Hindi
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27679
-#EXTINF:-1,IND: NICK JR.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23561
-#EXTINF:-1,IND: HUNGAMA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23564
-#EXTINF:-1,IND: SUPER HUNGAMA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27990
-#EXTINF:-1,IND: DISNEY CHANNEL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23559
-#EXTINF:-1,T-20 WC: CricLife 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27976
-#EXTINF:-1,T-20 WC: CricLife 1 FHD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27977
-#EXTINF:-1,T-20 WC: CricLife 2 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27978
-#EXTINF:-1,T-20 WC: CricLife 2 FHD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27979
-#EXTINF:-1,T-20 WC: CricLife MAX FHD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27980
-#EXTINF:-1,T-20 WC: JIO CRICKET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27678
-#EXTINF:-1,T-20 WC: JIO CRICKET 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27984
-#EXTINF:-1,T-20 WC: PTV SPORTS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17534
-#EXTINF:-1,T-20 WC: A Sportd FHD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17536
-#EXTINF:-1,T-20 WC: A Sports ARY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17537
-#EXTINF:-1,T-20 WC: TEN SPORTS PK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1011
-#EXTINF:-1,T-20 WC: TEN CRICKET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26399
-#EXTINF:-1,T-20 WC: GEO SUPER
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1012
-#EXTINF:-1,T-20 WC: FoX Sports 501
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17535
-#EXTINF:-1,T-20 WC: SUPERSPORT CRICKET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/18257
-#EXTINF:-1,T-20 WC: Astro Cricket
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17528
-#EXTINF:-1,T-20 WC: WILLOW CRICKET HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17538
-#EXTINF:-1,T-20 WC: Willow Xtra
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17527
-#EXTINF:-1,T-20 WC: Star Sports Hindi 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17520
-#EXTINF:-1,T-20 WC: STAR SPORTS 1 HD 1080 H.264
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17522
-#EXTINF:-1,T-20 WC: STAR SPORTS 2 HD 1080 H.264
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17523
-#EXTINF:-1,T-20 WC: Star Sports 2 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17521
-#EXTINF:-1,T-20 WC: Sky Sports Cricket HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17524
-#EXTINF:-1,T-20 WC: Sky Sports Cricket FHD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17525
-#EXTINF:-1,T-20 WC: Super Sport GrandStand
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/17526
-#EXTINF:-1,T-20 WC: SONY SIX SD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1466
-#EXTINF:-1,T-20 WC: TEN 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1468
-#EXTINF:-1,T-20 WC: TEN 2 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1469
-#EXTINF:-1,T-20 WC: TEN 3 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1470
-#EXTINF:-1,T-20 WC: T Sports HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/22969
-#EXTINF:-1,T-20 WC:  GAZI TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26398
-#EXTINF:-1,T-20 WC: RTA SPORTS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11266
-#EXTINF:-1,T-20 WC: SPORTSMAX CRICKET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11562
-#EXTINF:-1,T-20 WC: SPORTSMAX 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27981
-#EXTINF:-1,NZ | SKY Sport 01
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23528
-#EXTINF:-1,NZ | SKY Sport 02
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23529
-#EXTINF:-1,NZ | SKY Sport 03
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23530
-#EXTINF:-1,NZ | SKY Sport 04
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23531
-#EXTINF:-1,NZ | SKY Sport 05
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23532
-#EXTINF:-1,NZ | SKY Sport 06
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23533
-#EXTINF:-1,NZ | SKY Sport 07
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23534
-#EXTINF:-1,NZ | SKY Sport 08
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23535
-#EXTINF:-1,NZ | SKY Sport 09
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23536
-#EXTINF:-1,NZ | SKY Sport SELECT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23537
-#EXTINF:-1,NZ | Spark Sport 01 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23538
-#EXTINF:-1,NZ | Spark Sport 02 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23539
-#EXTINF:-1,NZ | Spark Sport 03 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23540
-#EXTINF:-1,NZ | Spark Sport 04 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23541
-#EXTINF:-1,NZ | Spark Sport 05 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23542
-#EXTINF:-1,NZ | Spark Sport 06 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23543
-#EXTINF:-1,NZ | Spark Sport 07 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23544
-#EXTINF:-1,NZ | Spark Sport 08 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23545
-#EXTINF:-1,NZ | Spark Sport 09 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23546
-#EXTINF:-1,NZ | Spark Sport 10 (Match Time Only)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23547
-#EXTINF:-1,NZ | Firstlight
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23548
-#EXTINF:-1,NZ | Māori Television
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23549
-#EXTINF:-1,NZ | TVSN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23550
-#EXTINF:-1,NZ | Wairarapa TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23551
-#EXTINF:-1,NZ | Zoo Moo
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/23552
-#EXTINF:-1,AF: SUPERSPORT CRICKET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/920
-#EXTINF:-1,AF: SUPERSPORT VARIETY 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/921
-#EXTINF:-1,AF: SUPERSPORT VARIETY 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/922
-#EXTINF:-1,AF: SUPERSPORT VARIETY 3
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/923
-#EXTINF:-1,AF:  SUPERSPORT VARIETY 4
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/924
-#EXTINF:-1,AF:  SUPERSPORT LA LIGA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/925
-#EXTINF:-1,AF:  SUPERSPORT RUGBY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/926
-#EXTINF:-1,AF:  SUPERSPORT GOLF
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/927
-#EXTINF:-1,AF:  SUPERSPORT GRANDSTAND
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/928
-#EXTINF:-1,AF:  SUPERSPORT PREMIER LEAGUE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/929
-#EXTINF:-1,AF:  SUPERSPORT FOOTBALL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/930
-#EXTINF:-1,AF:  SUPERSPORT TENNIS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/931
-#EXTINF:-1,AF:  SUPERSPORT BLITZ
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/932
-#EXTINF:-1,AF:  SUPERSPORT MaXiMO
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/933
-#EXTINF:-1,DSTV: SUPERSPORTS PSL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5350
-#EXTINF:-1,DSTV: SUPERSPORTS 3 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5351
-#EXTINF:-1,DSTV: SUPERSPORTS 4 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5352
-#EXTINF:-1,DSTV: SUPERSPORTS 5 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5353
-#EXTINF:-1,DSTV: SUPERSPORTS 6 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5354
-#EXTINF:-1,DSTV: SUPERSPORTS 7 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5355
-#EXTINF:-1,DSTV: SUPERSPORTS 8 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5356
-#EXTINF:-1,DSTV: SUPERSPORTS 9 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5357
-#EXTINF:-1,DSTV: SUPERSPORTS 10 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5358
-#EXTINF:-1,DSTV: SUPERSPORTS 11 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5359
-#EXTINF:-1,DSTV: SUPERSPORTS 12 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/5360
-#EXTINF:-1,DStv | 1KZN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26761
-#EXTINF:-1,DStv | 1Magic.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26762
-#EXTINF:-1,DStv | Africa Magic Epic
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26763
-#EXTINF:-1,DStv | Africa Magic Family
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26764
-#EXTINF:-1,DStv | Africa Magic Igbo
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26765
-#EXTINF:-1,DStv | Africa Magic Showcase
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26766
-#EXTINF:-1,DStv | Africa Magic Urban
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26767
-#EXTINF:-1,DStv | Africa News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26768
-#EXTINF:-1,DStv | Al Jazeera
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26769
-#EXTINF:-1,DStv | Bay TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26770
-#EXTINF:-1,DStv | BBC Brit
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26771
-#EXTINF:-1,DStv | BBC Earth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26772
-#EXTINF:-1,DStv | BBC Lifestyle
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26773
-#EXTINF:-1,DStv | BBC World News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26774
-#EXTINF:-1,DStv | BET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26775
-#EXTINF:-1,DStv | Big Brother Naija
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26776
-#EXTINF:-1,DStv | Bloomberg
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26777
-#EXTINF:-1,DStv | Boomerang
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26778
-#EXTINF:-1,DStv | Business Day TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26779
-#EXTINF:-1,DStv | BVN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26780
-#EXTINF:-1,DStv | Cape Town TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26781
-#EXTINF:-1,DStv | Cartoon Network
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26782
-#EXTINF:-1,DStv | Cbeebies
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26783
-#EXTINF:-1,DStv | CBS Justice
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26784
-#EXTINF:-1,DStv | CBS Reality
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26785
-#EXTINF:-1,DStv | CCTV 4
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26786
-#EXTINF:-1,DStv | CGTN News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26787
-#EXTINF:-1,DStv | Channel O
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26788
-#EXTINF:-1,DStv | CNBC Africa
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26789
-#EXTINF:-1,DStv | CNN International
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26790
-#EXTINF:-1,DStv | Comedy Central
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26791
-#EXTINF:-1,DStv | Curiosity Stream
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26792
-#EXTINF:-1,DStv | Da Vinci Kids
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26793
-#EXTINF:-1,DStv | Daystar
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26794
-#EXTINF:-1,DStv | Deutsche Welle
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26795
-#EXTINF:-1,DStv | Discovery Channel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26796
-#EXTINF:-1,DStv | Discovery Family
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26797
-#EXTINF:-1,DStv | Disney Channel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26798
-#EXTINF:-1,DStv | Disney Junior
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26799
-#EXTINF:-1,DStv | Disney XD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26800
-#EXTINF:-1,DStv | Dumisa
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26801
-#EXTINF:-1,DStv | E! Entertainment
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26802
-#EXTINF:-1,DStv | e.TV Extra
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26803
-#EXTINF:-1,DStv | e.tv
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26804
-#EXTINF:-1,DStv | Emmanuel TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26805
-#EXTINF:-1,DStv | eMovies Extra
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26806
-#EXTINF:-1,DStv | eMovies
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26807
-#EXTINF:-1,DStv | eNCA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26808
-#EXTINF:-1,DStv | ESPN 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26809
-#EXTINF:-1,DStv | ESPN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26810
-#EXTINF:-1,DStv | eToonz
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26811
-#EXTINF:-1,DStv | EuroNews
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26812
-#EXTINF:-1,DStv | EVA English
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26813
-#EXTINF:-1,DStv | Faith
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26814
-#EXTINF:-1,DStv | fliekNET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26815
-#EXTINF:-1,DStv | Food Network
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26816
-#EXTINF:-1,DStv | FOX Life
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26817
-#EXTINF:-1,DStv | FOX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26818
-#EXTINF:-1,DStv | GauTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26819
-#EXTINF:-1,DStv | Ginx eSports TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26820
-#EXTINF:-1,DStv | HGTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26821
-#EXTINF:-1,DStv | History
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26822
-#EXTINF:-1,DStv | Ignition
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26823
-#EXTINF:-1,DStv | Investigation Discovery
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26824
-#EXTINF:-1,DStv | iTV Networks
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26825
-#EXTINF:-1,DStv | JimJam
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26826
-#EXTINF:-1,DStv | KIX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26827
-#EXTINF:-1,DStv | kykNET & Kie
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26828
-#EXTINF:-1,DStv | kykNET Nou!
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26829
-#EXTINF:-1,DStv | kykNET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26830
-#EXTINF:-1,DStv | Lesotho TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26831
-#EXTINF:-1,DStv | Lifetime
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26832
-#EXTINF:-1,DStv | M-Net City
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26833
-#EXTINF:-1,DStv | M-Net Movies 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26834
-#EXTINF:-1,DStv | M-Net Movies 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26835
-#EXTINF:-1,DStv | M-Net Movies 3
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26836
-#EXTINF:-1,DStv | M-Net Movies 4
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26837
-#EXTINF:-1,DStv | M-Net Plus 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26838
-#EXTINF:-1,DStv | M-Net Yoruba
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26839
-#EXTINF:-1,DStv | M-Net
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26840
-#EXTINF:-1,DStv | Mindset
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26841
-#EXTINF:-1,DStv | MojaLove
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26842
-#EXTINF:-1,DStv | MTV 90s
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26843
-#EXTINF:-1,DStv | MTV Base
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26844
-#EXTINF:-1,DStv | MTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26845
-#EXTINF:-1,DStv | Mzansi Bioskop
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26846
-#EXTINF:-1,DStv | Mzansi Magic Music
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26847
-#EXTINF:-1,DStv | Mzansi Magic
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26848
-#EXTINF:-1,DStv | Mzansi Wethu
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26849
-#EXTINF:-1,DStv | Nat Geo WILD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26850
-#EXTINF:-1,DStv | National Geographic
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26851
-#EXTINF:-1,DStv | NDTV 247
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26852
-#EXTINF:-1,DStv | Newzroom Afrika
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26853
-#EXTINF:-1,DStv | NHK World Japan.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26854
-#EXTINF:-1,DStv | Nick Jr
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26855
-#EXTINF:-1,DStv | Nickelodeon
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26856
-#EXTINF:-1,DStv | NickTOONS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26857
-#EXTINF:-1,DStv | One Gospel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26858
-#EXTINF:-1,DStv | Parliamentary Service
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26859
-#EXTINF:-1,DStv | PBS Kids
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26860
-#EXTINF:-1,DStv | Peoples Weather
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26861
-#EXTINF:-1,DStv | POP
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26862
-#EXTINF:-1,DStv | RAI Italia
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26863
-#EXTINF:-1,DStv | Real Time
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26864
-#EXTINF:-1,DStv | ROK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26865
-#EXTINF:-1,DStv | RTP Internacional
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26866
-#EXTINF:-1,DStv | Russia Today
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26867
-#EXTINF:-1,DStv | SABC 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26868
-#EXTINF:-1,DStv | SABC 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26869
-#EXTINF:-1,DStv | SABC 3
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26870
-#EXTINF:-1,DStv | SABC News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26871
-#EXTINF:-1,DStv | Sky News
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26872
-#EXTINF:-1,DStv | Soundcity
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26873
-#EXTINF:-1,DStv | Soweto TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26874
-#EXTINF:-1,DStv | Spice TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26875
-#EXTINF:-1,DStv | Star Life
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26876
-#EXTINF:-1,DStv | Studio Universal
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26877
-#EXTINF:-1,DStv | TBN Africa
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26878
-#EXTINF:-1,DStv | Telemundo
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26879
-#EXTINF:-1,DStv | TellyTrack
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26880
-#EXTINF:-1,DStv | The Home Channel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26881
-#EXTINF:-1,DStv | TLC Entertainment
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26882
-#EXTINF:-1,DStv | TNT Africa
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26883
-#EXTINF:-1,DStv | TRACE Africa
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26884
-#EXTINF:-1,DStv | TRACE Gospel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26885
-#EXTINF:-1,DStv | TRACE Mizki
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26886
-#EXTINF:-1,DStv | TRACE Urban
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26887
-#EXTINF:-1,DStv | Travel Channel
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26888
-#EXTINF:-1,DStv | Tshwane TV.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26889
-#EXTINF:-1,DStv | TV5 Monde Afrique.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26890
-#EXTINF:-1,DStv | Universal TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26891
-#EXTINF:-1,DStv | VIA.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26892
-#EXTINF:-1,DStv | Vuzu.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26893
-#EXTINF:-1,DStv | WildEarth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26894
-#EXTINF:-1,DStv | WWE Channel.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26895
-#EXTINF:-1,DStv | Zee World.
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26896
-#EXTINF:-1,AU: FOX SPORTS NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7184
-#EXTINF:-1,AU: Fox Sports 501
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8019
-#EXTINF:-1,AU: FOX SPORTS 501
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7177
-#EXTINF:-1,AU: Fox Sports 502
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8020
-#EXTINF:-1,AU: FOX SPORTS 502
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7178
-#EXTINF:-1,AU: Fox Sports 503
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8021
-#EXTINF:-1,AU: FOX SPORTS 503
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7179
-#EXTINF:-1,AU: Fox Sports 504
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8022
-#EXTINF:-1,AU: FOX SPORTS 504
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7180
-#EXTINF:-1,AU: Fox Sports 505
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8023
-#EXTINF:-1,AU: FOX SPORTS 505
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7181
-#EXTINF:-1,AU: Fox Sports 506
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8024
-#EXTINF:-1,AU: FOX SPORTS 506
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7182
-#EXTINF:-1,AU: Fox Sports 507
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8025
-#EXTINF:-1,AU: FOX SPORTS 507
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7183
-#EXTINF:-1,AU: beIN Sports 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7185
-#EXTINF:-1,AU: beIN Sports 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8014
-#EXTINF:-1,AU: beIN Sports 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7186
-#EXTINF:-1,AU: beIN Sports 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8015
-#EXTINF:-1,AU: beIN Sports 3
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/7187
-#EXTINF:-1,AU: beIN Sports 3
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8016
-#EXTINF:-1,AU: ESPN 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8017
-#EXTINF:-1,AU: ESPN 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8018
-#EXTINF:-1,RACING.COM HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13342
-#EXTINF:-1,SKY RACING 1 HD AU
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13344
-#EXTINF:-1,SKY RACING 2 HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13345
-#EXTINF:-1,AU: 7flix Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13272
-#EXTINF:-1,AU: 7flix Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13273
-#EXTINF:-1,AU: 7flix Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13274
-#EXTINF:-1,AU: 7flix Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13275
-#EXTINF:-1,AU: 7mate Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13276
-#EXTINF:-1,AU: 7mate Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13277
-#EXTINF:-1,AU: 7mate Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13278
-#EXTINF:-1,AU: 7mate Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13279
-#EXTINF:-1,AU: 7Two Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13280
-#EXTINF:-1,AU: 7Two Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13281
-#EXTINF:-1,AU: 7Two Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13282
-#EXTINF:-1,AU: 7Two Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13283
-#EXTINF:-1,AU: 9Go! Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13284
-#EXTINF:-1,AU: 9Go! Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13285
-#EXTINF:-1,AU: 9Go! Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13286
-#EXTINF:-1,AU: 9Life Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13287
-#EXTINF:-1,AU: 9Life Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13288
-#EXTINF:-1,AU: 9Life Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13289
-#EXTINF:-1,AU: 9Life Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13290
-#EXTINF:-1,AU: ABC Comedy National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13291
-#EXTINF:-1,AU: ABC Kids National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13292
-#EXTINF:-1,AU: ABC ME National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13293
-#EXTINF:-1,AU: ABC Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13294
-#EXTINF:-1,AU: ABC Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13295
-#EXTINF:-1,AU: ABC Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13296
-#EXTINF:-1,AU: Channel 9 Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13297
-#EXTINF:-1,AU: Channel 9 Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13298
-#EXTINF:-1,AU: Channel 9 Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13299
-#EXTINF:-1,AU: Channel 9 Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13300
-#EXTINF:-1,AU: Racing.com National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13301
-#EXTINF:-1,AU: SBS Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13302
-#EXTINF:-1,AU: SBS Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13303
-#EXTINF:-1,AU: SBS Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13304
-#EXTINF:-1,AU: SBS Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13305
-#EXTINF:-1,AU: SBS Viceland National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13306
-#EXTINF:-1,AU: SBS World Movies National
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13307
-#EXTINF:-1,AU: Seven Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13308
-#EXTINF:-1,AU: Seven Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13309
-#EXTINF:-1,AU: Seven Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13310
-#EXTINF:-1,AU: Seven Sydney
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13311
-#EXTINF:-1,AU: Ten (Sydney)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13312
-#EXTINF:-1,AU: Ten Brisbane
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13313
-#EXTINF:-1,AU: Ten Melbourne
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13314
-#EXTINF:-1,AU: Ten Perth
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13315
-#EXTINF:-1,AUS: Sky Racing 2
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13316
-#EXTINF:-1,ABC NEWS 24 HD AU
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13317
-#EXTINF:-1,ABC One HD AU
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13318
-#EXTINF:-1,CHANNEL 7 HD AU
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13329
-#EXTINF:-1,7 FLIX HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13330
-#EXTINF:-1,7 MATE HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13331
-#EXTINF:-1,7 TWO HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13332
-#EXTINF:-1,9GEM HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13333
-#EXTINF:-1,9GO HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13334
-#EXTINF:-1,9LIFE HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13335
-#EXTINF:-1,Channel One HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13336
-#EXTINF:-1,Channel 10 HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13337
-#EXTINF:-1,EXPO CHANNEL HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13338
-#EXTINF:-1,Food Network HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13339
-#EXTINF:-1,FOX FOOTY NETWORK HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13340
-#EXTINF:-1,NITV HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13341
-#EXTINF:-1,SBS HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13343
-#EXTINF:-1,SBS FOOD NETWORK SD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13346
-#EXTINF:-1,NINE GEM ADELAIDE HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13347
-#EXTINF:-1,SBC NITV AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13348
-#EXTINF:-1,Sky News Extra AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13349
-#EXTINF:-1,Fuel TV AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13350
-#EXTINF:-1,NINE GEM SYDNEY HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13351
-#EXTINF:-1,Bloomberg Australia HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13352
-#EXTINF:-1,Outdoor Channel HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13353
-#EXTINF:-1,SBC NITV AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13354
-#EXTINF:-1,NINE GO SYDNEY HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13355
-#EXTINF:-1,CHANNEL 10 PEACH AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13356
-#EXTINF:-1,NINE LIFE PERTH HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13357
-#EXTINF:-1,NINE LIFE SYDNEY HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13358
-#EXTINF:-1,CHANNEL 7 OPENSHOP AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13359
-#EXTINF:-1,ACC TV AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13360
-#EXTINF:-1,NINE SYDNEY HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13361
-#EXTINF:-1,TEN BOLD HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13362
-#EXTINF:-1,PAC 12 HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13363
-#EXTINF:-1,REDBULL TV HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13364
-#EXTINF:-1,SEVEN HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13365
-#EXTINF:-1,TEN HD AU (B)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13366
-#EXTINF:-1,AU:ACCTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/13367
-#EXTINF:-1,SG: HUB PREMIER 1 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27986
-#EXTINF:-1,SG: HUB PREMIER 2 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27987
-#EXTINF:-1,SG: HUB PREMIER 3 HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27988
-#EXTINF:-1,PK: AL-QURAN AL-KAREEM
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/934
-#EXTINF:-1,PK: AL-SUNNAH
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/935
-#EXTINF:-1,PK: PEACE TV URDU
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/936
-#EXTINF:-1,PK: MADNI CHANNEL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/937
-#EXTINF:-1,PK: ARY QTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/938
-#EXTINF:-1,PK: BANDOOKK IPTV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/11260
-#EXTINF:-1,PK: AAJ NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/29124
-#EXTINF:-1,PK: BOL NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/951
-#EXTINF:-1,PK: ARY NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/939
-#EXTINF:-1,PK: SUNO TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/27983
-#EXTINF:-1,PK: GEO NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/942
-#EXTINF:-1,PK: DUNYA NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/943
-#EXTINF:-1,PK: EXPRESS NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/944
-#EXTINF:-1,PK: 92 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/946
-#EXTINF:-1,PK: GNN NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/949
-#EXTINF:-1,PK: HUM NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/947
-#EXTINF:-1,PK: PUBLIC NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/948
-#EXTINF:-1,PK: GTV Network
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/950
-#EXTINF:-1,PK: SAMAA TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/945
-#EXTINF:-1,PK: 24 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/952
-#EXTINF:-1,PK: NEWS ONE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/953
-#EXTINF:-1,PK: NEO NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/954
-#EXTINF:-1,PK: DAWN NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/955
-#EXTINF:-1,PK: LAHORE NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/956
-#EXTINF:-1,PK: LAHORE RANG
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/957
-#EXTINF:-1,PK: CAPITAL NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/958
-#EXTINF:-1,PK: ABB TAKK NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/959
-#EXTINF:-1,PK: CITY 41 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/960
-#EXTINF:-1,PK: CITY 42 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/961
-#EXTINF:-1,PK: Rohi TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/16907
-#EXTINF:-1,PK: PTV NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/962
-#EXTINF:-1,PK: GEO TEZZ
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/963
-#EXTINF:-1,PK: K21 NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/964
-#EXTINF:-1,PK: CHANNEL 5
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/965
-#EXTINF:-1,PK: DIN NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/966
-#EXTINF:-1,PK: KHYBER NEWS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/967
-#EXTINF:-1,PK: SUCH TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/968
-#EXTINF:-1,PK: ARY DIGITAL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/969
-#EXTINF:-1,PK: HUM TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/970
-#EXTINF:-1,PK: HUM SITARAY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/971
-#EXTINF:-1,PK: GEO ENTERTAINMENT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/972
-#EXTINF:-1,PK: GEO KAHANI
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/973
-#EXTINF:-1,PK: AUR LIFE HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/26400
-#EXTINF:-1,PK: URDU 1
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/974
-#EXTINF:-1,PK: BOL ENTERTAINMENT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/975
-#EXTINF:-1,PK: EXPRESS ENTERTAINMENT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/976
-#EXTINF:-1,PK: TV ONE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/977
-#EXTINF:-1,PK: ATV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/978
-#EXTINF:-1,PK: APLUS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/979
-#EXTINF:-1,PK: APNA CHANNEL
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/980
-#EXTINF:-1,PK: PLAY TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/981
-#EXTINF:-1,PK: PTV HOME
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/984
-#EXTINF:-1,PK: AAJ ENTERTAINMENT
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/986
-#EXTINF:-1,PK: SEE TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/987
-#EXTINF:-1,PK: PAKUS TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/982
-#EXTINF:-1,PK: SAB RANG (USA)
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/983
-#EXTINF:-1,PK: DISCOVER PAKISTAN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/985
-#EXTINF:-1,PK: HBO PAK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/15077
-#EXTINF:-1,PK: FILMAZIA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/988
-#EXTINF:-1,PK: FILMAX
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/989
-#EXTINF:-1,PK: FILMWORLD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/990
-#EXTINF:-1,PK: RAAVI TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/991
-#EXTINF:-1,PK: LTN
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/992
-#EXTINF:-1,PK: APNA STAGE SHOW
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/8299
-#EXTINF:-1,PK: WASEB TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/993
-#EXTINF:-1,PK: KHYBER TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/994
-#EXTINF:-1,PK: DHARTI TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/995
-#EXTINF:-1,PK: AWAZ TV
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/996
-#EXTINF:-1,PK: ASIA TV HD
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/997
-#EXTINF:-1,PK: NTV HOUSTON
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/998
-#EXTINF:-1,PK: ARY ZAUQ
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/999
-#EXTINF:-1,PK: HUM MASALA
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1000
-#EXTINF:-1,PK: HUM MASALA EUROPE
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1001
-#EXTINF:-1,PK: DISCOVERY
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1002
-#EXTINF:-1,PK: ANIMAL PLANET
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1003
-#EXTINF:-1,PK: ARY MUSIK
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1005
-#EXTINF:-1,PK: JALWA MUSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1006
-#EXTINF:-1,PK: OXYGEN MUSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1007
-#EXTINF:-1,PK: 8XM MUSIC
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1008
-#EXTINF:-1,PK: PTV SPORTS
-http://bandookk.xyz:8000/BJTECH/IPTVHelp/1010
+#EXTINF:-1,IND | &TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97865
+#EXTINF:-1,IND | B4U KARAK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97866
+#EXTINF:-1,IND | SONY TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97867
+#EXTINF:-1,IND | STAR PLUS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97868
+#EXTINF:-1,IND | ZEE TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97869
+#EXTINF:-1,IND | ZEE TV CANADA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97870
+#EXTINF:-1,IND | COLORS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97871
+#EXTINF:-1,IND | COLORS TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97872
+#EXTINF:-1,IND | COLORS (UK)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97873
+#EXTINF:-1,IND | &TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97874
+#EXTINF:-1,IND | SONY SAB HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97875
+#EXTINF:-1,IND | SONY SAB SD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97876
+#EXTINF:-1,IND | SONY PAL
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97877
+#EXTINF:-1,IND | STAR BHARAT (UK)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97878
+#EXTINF:-1,IND | DHAMAAL TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97879
+#EXTINF:-1,IND | DILLAGI TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97880
+#EXTINF:-1,IND | BIG MAGIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97881
+#EXTINF:-1,IND | & PICTURES HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97882
+#EXTINF:-1,IND | & PICTURES
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97883
+#EXTINF:-1,IND | ZEE CINEMA USA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97884
+#EXTINF:-1,IND | SONY MAX
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97885
+#EXTINF:-1,IND | UTV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97886
+#EXTINF:-1,IND | B4U Kadak
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97887
+#EXTINF:-1,IND | ENTER 10
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97888
+#EXTINF:-1,IND | MANORANJAN TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97889
+#EXTINF:-1,IND | MANORANJAN MOVIES
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97890
+#EXTINF:-1,IND | BOLLYWOOD CLASSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97891
+#EXTINF:-1,IND | WILLOW CRICKET HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97892
+#EXTINF:-1,IND | STAR SPORTS 2 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97893
+#EXTINF:-1,IND | SONY SIX HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97894
+#EXTINF:-1,IND | TEN 1 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97895
+#EXTINF:-1,IND | TEN 2 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97896
+#EXTINF:-1,IND | TEN 3 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97897
+#EXTINF:-1,IND | DSPORTS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97898
+#EXTINF:-1,IND | DSPORTS 1
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97899
+#EXTINF:-1,IND | Nova Prime Action HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97900
+#EXTINF:-1,IND | ANIMAL PLANET HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97901
+#EXTINF:-1,IND | Discovery HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97902
+#EXTINF:-1,IND | Discovery Science HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97903
+#EXTINF:-1,IND | Discovery ID
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97904
+#EXTINF:-1,IND | BBC EARTH HD UK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97905
+#EXTINF:-1,IND | LIVING FOODZ
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97906
+#EXTINF:-1,IND | FOOD FOOD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97907
+#EXTINF:-1,IND | CARTOON NETWORK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97908
+#EXTINF:-1,IND | DICOVERY KIDS HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97909
+#EXTINF:-1,IND | 9X JALWA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97910
+#EXTINF:-1,IND | B4U Music
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97911
+#EXTINF:-1,IND | PITAARA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97912
+#EXTINF:-1,IND | DIL SE
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97913
+#EXTINF:-1,IND | ZEE CAFE
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97914
+#EXTINF:-1,IND | Movies Now
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97915
+#EXTINF:-1,IND | MNX
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97916
+#EXTINF:-1,IND | Romedy Now
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97917
+#EXTINF:-1,IND | ZEE SALAAM
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97918
+#EXTINF:-1,IND | ABP NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97919
+#EXTINF:-1,IND | REPUBLIC BHARAT NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97920
+#EXTINF:-1,IND | NEWS 18 INDIA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97921
+#EXTINF:-1,IND | INDIA TV NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97922
+#EXTINF:-1,IND | Zee Cinema HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97923
+#EXTINF:-1,IND | Ahlulbayt TV UK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97924
+#EXTINF:-1,IND | Zee cinema usa
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97925
+#EXTINF:-1,IND | ZEE ANMOL
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97926
+#EXTINF:-1,IND | &EXPLOR HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97927
+#EXTINF:-1,IND | STAR GOLD SELECT
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97928
+#EXTINF:-1,IND | ZEE ACTION
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97929
+#EXTINF:-1,IND | ZEE BOLLYWOOD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97930
+#EXTINF:-1,IND | DISNEY CHANNEL
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97931
+#EXTINF:-1,IND | POGO HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97932
+#EXTINF:-1,IND | BBO HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97933
+#EXTINF:-1,IND | MAHA MOVIES
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97934
+#EXTINF:-1,IND | BOLLYWOOD PREMIER
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97935
+#EXTINF:-1,IND | BOLLYWOOD NOW
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97936
+#EXTINF:-1,IND | STAR SPORTS 3 SD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97937
+#EXTINF:-1,IND | STAR SPORTS SELECT 2
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97938
+#EXTINF:-1,IND | DD SPORTS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97939
+#EXTINF:-1,IND | HISTORY
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97940
+#EXTINF:-1,IND | NAT GEO HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97941
+#EXTINF:-1,IND | NAT GEO WILD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97942
+#EXTINF:-1,IND | FOX LIFE
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97943
+#EXTINF:-1,IND | EPIC HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97944
+#EXTINF:-1,IND | NICK SONIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97945
+#EXTINF:-1,IND | NICK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97946
+#EXTINF:-1,IND | NICK HD+
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97947
+#EXTINF:-1,IND | Mastiii TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97948
+#EXTINF:-1,IND | AAHO MUSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97949
+#EXTINF:-1,IND | &FLIX
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97950
+#EXTINF:-1,IND | ZEE HINDUSTAN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97951
+#EXTINF:-1,IND | ZEE NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97952
+#EXTINF:-1,IND | AAJ TAK NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97953
+#EXTINF:-1,IND | ZEE TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97954
+#EXTINF:-1,IND | Star World Premier HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97955
+#EXTINF:-1,IND | & xplore HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97956
+#EXTINF:-1,IND | WoW CINEMA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97957
+#EXTINF:-1,IND | BBC Earth Hindi
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97958
+#EXTINF:-1,IND | Star Gold 2
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97959
+#EXTINF:-1,IND | STAR MAA Gold
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97960
+#EXTINF:-1,IND | ZEE CINEMA SD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97961
+#EXTINF:-1,IND | ZEE ANMOL CINEMA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97962
+#EXTINF:-1,IND | UTV MOVIES
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97963
+#EXTINF:-1,IND | UTV ACTION
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97964
+#EXTINF:-1,IND | COLOR CINEPLEX HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97965
+#EXTINF:-1,IND | B4U Plus
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97966
+#EXTINF:-1,IND | B4U Movies
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97967
+#EXTINF:-1,IND | Cinema TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97968
+#EXTINF:-1,IND | HOUSEFULL MOVIES
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97969
+#EXTINF:-1,IND | STAR SPORTS 1 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97970
+#EXTINF:-1,IND | STAR SPORTS 1 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97971
+#EXTINF:-1,IND | STAR SPORTS SELECT 1
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97972
+#EXTINF:-1,IND | TLC HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97973
+#EXTINF:-1,IND | TRAVEL XP HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97974
+#EXTINF:-1,IND | SONY YAY HINDI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97975
+#EXTINF:-1,IND | POP PATAKHA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97976
+#EXTINF:-1,IND | Jhanjar Music (PANJABI)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97977
+#EXTINF:-1,IND | HBO HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97978
+#EXTINF:-1,IND | STAR MOVIES SELECT
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97979
+#EXTINF:-1,IND | &PRIVE HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97980
+#EXTINF:-1,IND | PBN MUSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97981
+#EXTINF:-1,IND | Zee music
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97982
+#EXTINF:-1,IND | Zee originals
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97983
+#EXTINF:-1,IND | Bbo classic
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97984
+#EXTINF:-1,IND | Kairali TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97985
+#EXTINF:-1,IND | Kairali We
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97986
+#EXTINF:-1,IND | Kairali News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97987
+#EXTINF:-1,IND | Peace of Mind
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97988
+#EXTINF:-1,IND | Vedic
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97989
+#EXTINF:-1,IND | Bflix Movies
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97990
+#EXTINF:-1,IND | UTSAV GOOD HD (UK)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97991
+#EXTINF:-1,IND | KTV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97992
+#EXTINF:-1,IND | Zoom TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97993
+#EXTINF:-1,IND | DD News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97994
+#EXTINF:-1,IND | DD National
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97995
+#EXTINF:-1,IND | Cine Voice (punjabi)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97996
+#EXTINF:-1,IND | Cheebies Asia
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97997
+#EXTINF:-1,IND | Boogle Bollywood (PANJABI)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97998
+#EXTINF:-1,IND | Big Ganga
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97999
+#EXTINF:-1,IND | 9XM
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98000
+#EXTINF:-1,IND | Desi Channel (PANJABI)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98001
+#EXTINF:-1,IND | Humdard Laughter HD (punjabi)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98002
+#EXTINF:-1,IND | India Today
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98003
+#EXTINF:-1,IND | Kadak Hits
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98004
+#EXTINF:-1,IND | MH1 MUSIC (PUNJABI)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98005
+#EXTINF:-1,IND | COLORS INFINITY
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98006
+#EXTINF:-1,IND | Fashion TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98007
+#EXTINF:-1,IND | FASTWAY NEWS (PANJABI)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98008
+#EXTINF:-1,IND | CNBC Awaaz
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98009
+#EXTINF:-1,IND | Zee Punjabi (punjabi)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98010
+#EXTINF:-1,IND | Z LIVING (USA)
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98011
+#EXTINF:-1,IND | Sony Max 2
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98012
+#EXTINF:-1,IND | NDTV INDIA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98013
+#EXTINF:-1,IND | STAR GOLD HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98014
+#EXTINF:-1,IND | INDIA NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98015
+#EXTINF:-1,IND | NDTV PROFILE
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98016
+#EXTINF:-1,IND | Akaram Mix
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98017
+#EXTINF:-1,IND | Zee Smile usa
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98018
+#EXTINF:-1,IND | TV9 Telugu
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98019
+#EXTINF:-1,IND | Shraddha MH One
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/98020
+#EXTINF:-1,AFG | 1 TV  HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36260
+#EXTINF:-1,AFG | ATN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36261
+#EXTINF:-1,AFG | ATN NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36262
+#EXTINF:-1,AFG | Ariana International
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36263
+#EXTINF:-1,AFG | ATN AFGHAN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36266
+#EXTINF:-1,AFG | THEATRE TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36267
+#EXTINF:-1,AFG | LEMAR TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36269
+#EXTINF:-1,AFG | AREZO HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36270
+#EXTINF:-1,AFG | KAYHAN TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36271
+#EXTINF:-1,AFG | KHURSHID TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36272
+#EXTINF:-1,AFG | Hewad TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36273
+#EXTINF:-1,AFG | PAMIR TV FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36275
+#EXTINF:-1,AFG | TOLO  News TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36278
+#EXTINF:-1,AFG | SHAMSHAD TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36280
+#EXTINF:-1,AFG | PAYAM E AFGHAN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36281
+#EXTINF:-1,AFG | Noor TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36282
+#EXTINF:-1,AFG | Ariana News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36283
+#EXTINF:-1,AFG | Tolo HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36284
+#EXTINF:-1,AFG | ZHWANDOON TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/36285
+#EXTINF:-1,AFG | Tuti TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/80065
+#EXTINF:-1,AFG | ZHWNDOON TV FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/80066
+#EXTINF:-1,PK | 24 NEWS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77158
+#EXTINF:-1,PK | 8XM HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77159
+#EXTINF:-1,PK | 92 News HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77160
+#EXTINF:-1,PK | A PLUS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77161
+#EXTINF:-1,PK | Aaj Entertainment
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77162
+#EXTINF:-1,PK | Aaj News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77163
+#EXTINF:-1,PK | ABBTAK News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77164
+#EXTINF:-1,PK | Afghan TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77165
+#EXTINF:-1,PK | ARUJ TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77166
+#EXTINF:-1,PK | ARY DIGITAL
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77167
+#EXTINF:-1,PK | ARY Family
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77168
+#EXTINF:-1,PK | ARY MUSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77169
+#EXTINF:-1,PK | ARY NEWS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77170
+#EXTINF:-1,PK | ARY NEWS WORLD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77171
+#EXTINF:-1,PK | ARY QTV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77172
+#EXTINF:-1,PK | ARY ZAUQ
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77173
+#EXTINF:-1,PK | ARY ZINDAGI
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77174
+#EXTINF:-1,PK | ATV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77175
+#EXTINF:-1,PK | AVT Khyber TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77176
+#EXTINF:-1,PK | AWAZ ENTERTAINMENT
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77177
+#EXTINF:-1,PK | Awaz Tv
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77178
+#EXTINF:-1,PK | Bol Entertainment HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77179
+#EXTINF:-1,PK | BOL NEWS URDU FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77180
+#EXTINF:-1,PK | British Muslim
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77181
+#EXTINF:-1,PK | C44
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77182
+#EXTINF:-1,PK | CAPITAL NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77183
+#EXTINF:-1,PK | CARTOON NETWORK PAK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77184
+#EXTINF:-1,PK | CHANNEL 5 NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77185
+#EXTINF:-1,PK | CITY 41 NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77186
+#EXTINF:-1,PK | CITY 42 NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77187
+#EXTINF:-1,PK | DAWN NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77188
+#EXTINF:-1,PK | Dhanak TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77189
+#EXTINF:-1,PK | DIN NEWS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77190
+#EXTINF:-1,PK | DUNYA NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77191
+#EXTINF:-1,PK | Eman TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77192
+#EXTINF:-1,PK | EXPRESS Entertainement
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77193
+#EXTINF:-1,PK | EXPRESS NEWS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77194
+#EXTINF:-1,PK | Film World HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77195
+#EXTINF:-1,PK | FILMAZIA
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77196
+#EXTINF:-1,PK | GEO ENTERMENT HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77197
+#EXTINF:-1,PK | GEO KAHANI HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77198
+#EXTINF:-1,PK | GEO NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77199
+#EXTINF:-1,PK | Geo Super HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77200
+#EXTINF:-1,PK | GEO TEZZ
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77201
+#EXTINF:-1,PK | GEO TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77202
+#EXTINF:-1,PK | GNN NEW PAKISTAN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77203
+#EXTINF:-1,PK | H NOW
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77204
+#EXTINF:-1,PK | HADI TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77205
+#EXTINF:-1,PK | Hum Europe
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77206
+#EXTINF:-1,PK | HUM HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77207
+#EXTINF:-1,PK | Hum Masala TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77208
+#EXTINF:-1,PK | HUM NEWS FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77209
+#EXTINF:-1,PK | HUM SITARAY
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77210
+#EXTINF:-1,PK | HUM TV WORLD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77211
+#EXTINF:-1,PK | Iqra TV UK
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77212
+#EXTINF:-1,PK | ISLAM CHANNEL URDU
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77213
+#EXTINF:-1,PK | Jaag TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77214
+#EXTINF:-1,PK | JALWA MUSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77215
+#EXTINF:-1,PK | JOO MUSIC
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77216
+#EXTINF:-1,PK | K21 NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77217
+#EXTINF:-1,PK | KASHISH TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77218
+#EXTINF:-1,PK | Kay 2 TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77219
+#EXTINF:-1,PK | KHYBER NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77220
+#EXTINF:-1,PK | KHYBER TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77221
+#EXTINF:-1,PK | King Television
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77222
+#EXTINF:-1,PK | KOHENOOR TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77223
+#EXTINF:-1,PK | KTN
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77224
+#EXTINF:-1,PK | KTN NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77225
+#EXTINF:-1,PK | LAHORE NEWS FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77226
+#EXTINF:-1,PK | Madni Channel
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77227
+#EXTINF:-1,PK | Makkah Live
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77228
+#EXTINF:-1,PK | MASHRIQ TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77229
+#EXTINF:-1,PK | Medina Live
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77230
+#EXTINF:-1,PK | METRO 1 NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77231
+#EXTINF:-1,PK | Minhaj TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77232
+#EXTINF:-1,PK | Mta 1
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77233
+#EXTINF:-1,PK | Mta 2
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77234
+#EXTINF:-1,PK | MUNSIF TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77235
+#EXTINF:-1,PK | NEO NEWS FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77236
+#EXTINF:-1,PK | News One HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77237
+#EXTINF:-1,PK | Noor TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77238
+#EXTINF:-1,PK | Paigham Tv
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77239
+#EXTINF:-1,PK | Pashto 1
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77240
+#EXTINF:-1,PK | Peace Tv English
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77241
+#EXTINF:-1,PK | PEACE TV URDU
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77242
+#EXTINF:-1,PK | PLAY ENTERTAINMENT
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77243
+#EXTINF:-1,PK | PTV Global
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77244
+#EXTINF:-1,PK | PTV HOME
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77245
+#EXTINF:-1,PK | PTV National
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77246
+#EXTINF:-1,PK | PTV NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77247
+#EXTINF:-1,PK | PTV WORLD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77249
+#EXTINF:-1,PK | PUBLIC NEWS HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77250
+#EXTINF:-1,PK | Qaim TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77251
+#EXTINF:-1,PK | QURAN TV URDU
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77252
+#EXTINF:-1,PK | Raavi Films
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77253
+#EXTINF:-1,PK | Raham TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77254
+#EXTINF:-1,PK | ROHI TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77255
+#EXTINF:-1,PK | ROZE NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77256
+#EXTINF:-1,PK | SAMAA NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77257
+#EXTINF:-1,PK | Samaa TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77258
+#EXTINF:-1,PK | Saudi Quran
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77259
+#EXTINF:-1,PK | SEE TV HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77260
+#EXTINF:-1,PK | Shamshad TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77261
+#EXTINF:-1,PK | SINDH NEWS
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77262
+#EXTINF:-1,PK | SINDH TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77263
+#EXTINF:-1,PK | SONY SIX HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77264
+#EXTINF:-1,PK | Stage Drama
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77265
+#EXTINF:-1,PK | SUBRANG TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77266
+#EXTINF:-1,PK | SUBRany TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77267
+#EXTINF:-1,PK | SUCH TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77268
+#EXTINF:-1,PK | Tag TV FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77269
+#EXTINF:-1,PK | TEN SPORTS FHD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77270
+#EXTINF:-1,PK | TORONTO 360 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77271
+#EXTINF:-1,PK | TV Canada One
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77272
+#EXTINF:-1,PK | TV ONE
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77273
+#EXTINF:-1,PK | URDU 1 HD
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77274
+#EXTINF:-1,PK | VENUS TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77275
+#EXTINF:-1,PK | VSH
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77276
+#EXTINF:-1,PK | Waqt News
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77277
+#EXTINF:-1,PK | WASEEB TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77278
+#EXTINF:-1,PK | ZAIQA Tv
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77279
+#EXTINF:-1,PK | ZINDAGI TV
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/77280
